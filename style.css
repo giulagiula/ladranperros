@@ -88,6 +88,16 @@ body {
     color: #000000;    
 }
 
+.ig{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 100;
+    cursor: pointer;
+    background-color: #64ff00;
+    color: #000000;
+}
+
 .perro-01 {
     top: 0px;
     left: 0px;
