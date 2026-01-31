@@ -1,0 +1,130 @@
+body {
+    background-color: #e0e0e0;
+    margin: 0;
+    padding: 0; 
+    padding-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    width: 90%;
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    transform: scale(1.2);
+}
+
+.description {
+    text-align: center;
+    margin: 10px auto;
+    position: relative;
+    margin-top: 20px;
+    z-index: 10;
+}
+
+.perros {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.perro {
+    display: block;
+    margin: 0 auto;
+}
+
+.perro-container{
+    position: absolute;
+    display: inline-block;
+    transform: scale(0.3);
+    text-align: center;
+}
+
+.perro-container a{
+text-decoration: none;
+color: inherit;
+display: block;
+cursor: pointer;
+}
+
+.perro-container:hover .perro {
+    filter: brightness(0) saturate(100%) invert(21%) sepia(100%) saturate(7426%) hue-rotate(358deg) brightness(95%) contrast(118%);
+}
+
+.song-name{
+    margin-top: 10px;
+    font-size: 48px;
+    white-space: no-wrap;
+}
+
+.perro-container:hover .song-name{
+    background-color: #64ff00
+}
+
+.credit{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 100;
+    cursor: pointer;
+    background-color: #64ff00;
+    color: #000000;
+}
+
+.about{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 100;
+    cursor: pointer;
+    background-color: #64ff00;
+    color: #000000;    
+}
+
+.perro-01 {
+    top: 30px;
+    left: 10px;
+}
+
+.perro-02 {
+    top: 60px;
+    left: 300px;
+}
+
+.perro-03 {
+    top: 80px;
+    left: 180px;
+}
+
+.perro-04 {
+    top: 160px;
+    left: 800px;
+}
+
+.perro-05 {
+    top: 400px;
+    left: 60px;
+}
+
+.perro-06 {
+    top: 150px;
+    left: 360px;
+}
+
+.perro-07 {
+    top: 40px;
+    left: 900px;
+}
+
+.perro-08 {
+    top: 400px;
+    left: 400px;
+}
+
+.perro-09 {
+    top: 40px;
+    left: 600px;
+}
