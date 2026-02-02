@@ -25,16 +25,6 @@ body {
     z-index: 10;
 }
 
-.perros {
-    position: relative;
-    width: 100%;
-    max-width: none;
-    min-height: 100vh; 
-    padding: 0 10px 10px 10px;
-    margin: -50px 0 0 0;
-    box-sizing: border-box;
-}
-
 .perro {
     display: block;
     margin: 0 auto;
@@ -104,13 +94,13 @@ body {
 }
 
 .perro-02 {
-    top: 0px;
+    top: 20px;
     left: 400px;
 }
 
 .perro-03 {
     top: 100px;
-    left: 300px;
+    left: 450px;
 }
 
 .perro-04 {
@@ -125,7 +115,7 @@ body {
 
 .perro-06 {
     top: 180px;
-    left: 670px;
+    left: 800px;
 }
 
 .perro-07 {
@@ -135,10 +125,35 @@ body {
 
 .perro-08 {
     top: 450px;
-    left: 600px;
+    left: 650px;
 }
 
 .perro-09 {
     top: 20px;
     left: 900px;
+}
+
+.perro-10 {
+    top: 180px;
+    left: 0px;
+}
+
+.perro-11 {
+    top: 200px;
+    left: 650px;
+}
+
+.perro-12 {
+    top: 450px;
+    left: 300px;
+}
+
+.perro-13 {
+    top: 520px;
+    left: 400px;
+}
+
+.perro-14 {
+    top: 50px;
+    left: 120px;
 }
