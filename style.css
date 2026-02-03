@@ -114,7 +114,7 @@ body {
 }
 
 .perro-04 {
-    top: 240px;
+    top: 300px;
     left: 1200px;
 }
 
@@ -166,4 +166,29 @@ body {
 .perro-14 {
     top: 100px;
     left: 200px;
+}
+
+.perro-15 {
+    top: 560px;
+    left: 600px;
+}
+
+.perro-16 {
+    top: 400px;
+    left: 400px;
+}
+
+.perro-17 {
+    top: 500px;
+    left: 1000px;
+}
+
+.perro-18 {
+    top: 100px;
+    left: 1000px;
+}
+
+.perro-19 {
+    top: 200px;
+    left: 1400px;
 }
