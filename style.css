@@ -213,6 +213,11 @@ body {
     left: 750px;
 }
 
+.perro-24 {
+    top: 650px;
+    left: 450px;
+}
+
 .perro-25 {
     top: 680px;
     left: 1150px;
@@ -221,4 +226,9 @@ body {
 .perro-26 {
     top: 700px;
     left: -180px;
+}
+
+.perro-27 {
+    top: 760px;
+    left: 950px;
 }
